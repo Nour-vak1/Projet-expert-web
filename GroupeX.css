@@ -12,7 +12,18 @@ border : solid red thin
 	} */
 	
 
+#amy{
 
+background-image: url(Amy.jfif);
+
+
+}
+#stevie{
+    background-image: url(Stevie.jfif);
+ 
+
+
+}
 /*instructions pour le corps de la page*/
 body { 
 	text-align: center;
@@ -119,8 +130,12 @@ color : white;
 border : 3px solid white;
 }
 
-td {
+td,#amy,#stevie {
+background-size: cover;  
+background-position: center;
+background-repeat: no-repeat; 
 width: 80px;
+height: 240px;
 padding: 8px;
 text-align: center;
 border : 3px solid white;
