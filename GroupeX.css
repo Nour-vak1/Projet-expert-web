@@ -1,44 +1,16 @@
-*{
+/* *{
 border : solid red thin
 }
 
-body{
+ body{
 	background-image: url(bg.jpg);
 	background-repeat: no-repeat;
 	background-size: 2100px;
 	background-position:center;
 	margin-bottom: 200px;
 	margin-left: 200px
-	}
+	} */
 	
-h3,p{
-	background-color: rgba(0,0,0,0.7);
-	text-align: justify;
-	width: 500px;
-	color: white;
-	padding : 7px;
-	margin : 0px;
-	}
-	
-h3{
-	font-size : 32px;
-	}
-	
-h1{
-	border-bottom-style: solid;
-	border-bottom-color: black;
-	border-bottom-width: 3px;
-	margin-left: 30px;
-	width:430px;
-	}
-	
-h2{
-	border-top-style: solid;
-	border-top-color: black;
-	border-top-width: 3px;
-	width:430px;
-	margin-left: 30px;
-	}
 
 
 /*instructions pour le corps de la page*/
@@ -132,12 +104,33 @@ li{
 	}
 /*instructions pour les tableaux*/
 
-table{
-	background-size:cover;
-	background-repeat: no-repeat;
+table {
+margin-right: auto;
+margin-left: auto;
+width: 800px;
+font-size : larger;
+}
+
+th {
+width: 70px;
+padding: 8px;
+background-color: #2D5FAF;
+color : white;
+border : 3px solid white;
+}
+
+td {
+width: 80px;
+padding: 8px;
+text-align: center;
+border : 3px solid white;
+}
+
+
+
+/* table{
 	border-spacing : 5px 5px;
 	border-style: dashed;
-
 	border-width: medium;
 	border-collapse: collapse;
 	margin : auto;
@@ -155,7 +148,9 @@ th,tr,td{
 	border-width: medium;
 	border-collapse: collapse;
 
-}
+} */
+
+
 /*instructions pour les éléments ancrés, souvent les liens pour naviguer sur le site web*/
 a{
 	margin: 10px	
