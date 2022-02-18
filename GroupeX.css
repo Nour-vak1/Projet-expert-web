@@ -39,3 +39,125 @@ h2{
 	width:430px;
 	margin-left: 30px;
 	}
+
+
+/*instructions pour le corps de la page*/
+body { 
+	text-align: center;
+	color: rebeccapurple;
+	background: conic-gradient(from 1.75turn at 0% 0%,#00E6FF,#FF8AE2);
+	background-size: 2000px 1500px;
+	background-repeat: no-repeat;
+	height:750px;
+}
+
+
+p{
+	background-size:cover;
+	background-color: rgba(0,0,0,0.2);	
+	background-repeat: no-repeat;
+	font-size:125%;
+	border: 5px;
+	border-style: none;
+	border-color: lightskyblue;
+	padding: 5px;
+	margin: 50px;
+	color: lightskyblue;
+	text-decoration:blink;
+	width: auto;
+	font-weight: bold;
+	border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    /*les 3 lignes au dessus sont issues du site web 
+    cité dans le README.txt à la date du 10/02/2022
+    fonction : arrondir le cadre autour du titre.
+    */
+}
+
+h1{
+	font-size:12px;
+}
+
+/* instructions pour les listes*/
+ol{
+	font-size: 12px;
+}
+
+ul,dt{
+	margin-top: 5%;
+	margin-right: 10%;
+	text-align: left;
+}
+
+h2{
+	margin-left: 0%;
+	text-align: left;
+}
+
+li{
+	text-align: left;
+	
+	}
+
+/*instructions pour des boîtes que j'ai créé (commencent par un #) et pour les groupements spéciaux (div)*/
+
+
+#ldl,#expl,#explications{
+	text-shadow: 1px 1px 2px black;
+	text-align: left;
+	margin: 0%;
+	color: white;
+	font-size: 12px;
+}
+
+
+
+#image{
+	display: flex;
+	margin-left: 38%;
+	border: solid 5px lightblue;
+	position: absolute;
+	top: 50%;
+	transform: translate(0%, -50%);
+}
+
+#pages_annexes{
+	top: 0px;
+	left: 0px;
+	position : absolute;
+}
+#explications{
+	color black;
+	}
+/*instructions pour les tableaux*/
+
+table{
+	background-size:cover;
+	background-repeat: no-repeat;
+	border-spacing : 5px 5px;
+	border-style: dashed;
+
+	border-width: medium;
+	border-collapse: collapse;
+	margin : auto;
+}
+
+th,tr,td{
+
+	font-size: 110%;
+	background-size:cover;
+	
+	background-repeat: no-repeat;
+	border-spacing : 5px 5px;
+	border-style: solid;
+	border-color: rgba(0,0,0,0.1);
+	border-width: medium;
+	border-collapse: collapse;
+
+}
+/*instructions pour les éléments ancrés, souvent les liens pour naviguer sur le site web*/
+a{
+	margin: 10px	
+}
+
