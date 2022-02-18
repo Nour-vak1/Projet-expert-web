@@ -1,3 +1,45 @@
+*{
+border : solid red thin
+}
+
+body{
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: 2100px;
+	background-position:center;
+	margin-bottom: 200px;
+	margin-left: 200px
+	}
+	
+h3,p{
+	background-color: rgba(0,0,0,0.7);
+	text-align: justify;
+	width: 500px;
+	color: white;
+	padding : 7px;
+	margin : 0px;
+	}
+	
+h3{
+	font-size : 32px;
+	}
+	
+h1{
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	border-bottom-width: 3px;
+	margin-left: 30px;
+	width:430px;
+	}
+	
+h2{
+	border-top-style: solid;
+	border-top-color: black;
+	border-top-width: 3px;
+	width:430px;
+	margin-left: 30px;
+	}
+
 
 /*instructions pour le corps de la page*/
 body { 
