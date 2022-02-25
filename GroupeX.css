@@ -29,9 +29,9 @@ body {
 	text-align: center;
 	color: rebeccapurple;
 	background: conic-gradient(from 1.75turn at 0% 0%,#00E6FF,#FF8AE2);
-	background-size: 2000px 1500px;
+	background-size: 4000px 3000px;
 	background-repeat: no-repeat;
-	height:750px;
+	height:1500px;
 }
 
 
@@ -141,8 +141,18 @@ padding: 8px;
 text-align: center;
 border : 3px solid white;
 }
+.texte{
+	text-align: justify;
+	width:450px;
+	margin-left: 0%;
+}
+.image {
+	margin-left: 600px;
+	margin-top: -170px;
+	margin-bottom: 200px;
+	border: red dotted 1px;
 
-
+}
 
 /* table{
 	border-spacing : 5px 5px;
