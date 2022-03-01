@@ -111,8 +111,6 @@ img {
 
 }
 
-
-
 .Liste ol { 
 	font-style:italic; 
 	font-family:Georgia, Times, serif; 
