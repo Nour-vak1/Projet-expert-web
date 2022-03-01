@@ -32,8 +32,8 @@
 <a href=https://www.fnac.com/Stevie-Wonder/ia377420/bio >source : https://www.fnac.com/Stevie-Wonder/ia377420/bio </a>
 </div>
 <div class = "SousPartie">
-<img class = "image" src="swpose.jfif">
 <p class = "SousTitre"> Liste de ses plus gros succès : </p>
+<img class = "image" src="swpose.jfif">
 <ol style="margin-left: 300px;margin-right: 500px;margin-top: -20px; margin-bottom: 40px; line-height: 16px; background-color: rgba(240, 248, 255, 0.099); color :rgb(0, 0, 205); font-size: 16px;">
     <li class = "liste">"Fingertips"</li>
     <li class = "liste">"Superstition"</li>

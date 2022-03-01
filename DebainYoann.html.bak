@@ -35,24 +35,32 @@
 
 		<div class = "SousPartie">
 
-		<img src ="Amy.jfif"/>
-		<p class = "texte"> Amy Jade Winehouse naît à Southgate, quartier de Enfield à Londres dans une famille juive qui partage son amour du jazz.
-		Son père chante souvent du Frank Sinatra à la maison et la jeune Amy prend l'habitude de chanter au point que ses enseignants se plaignent de ses difficultés à se concentrer en classe. 
-		Amy Winehouse prend ses premiers cours de chant au Susi Earnshaw Theatre School dès l'âge de huit ans. Elle est également influencée par sa grand-mère paternelle Cynthia qui fut chanteuse 
-		de cabaret, et qui suggère à Amy de suivre les cours de la Susi Earnshaw Theatre School où elle se rend le samedi pour approfondir sa formation vocale et apprendre à faire des claquettes.
-		Ses parents se séparent en 1992, Amy et son frère vivant alors avec leur mère Janis dans un autre logement. Elle devient une enfant rebelle, blessée par ce divorce. À dix ans, elle fonde Sweet 'N' Sour, 
-		un éphémère groupe de rap, avec son amie d'enfance Juliette Ashby. Elle étudie pendant quatre ans à l'Earnshaw school, avant de demander une formation à temps plein au Sylvia Young Theatre School. 
-		Il semble qu'elle en ait été expulsée à l'âge de quatorze ans, en raison de sa tenue peu soignée, de son piercing nasal, mais aussi de son manque d'application en classe.
-		Depuis son adolescence, l'artiste souffre de boulimie et ne réussira jamais à se sortir de ce trouble de l'alimentation.
-		Amy Winehouse et ses relations avec les produits stupéfiants ont fait l'objet d'une grande attention des médias. Dans diverses interviews, elle admet avoir des problèmes avec la drogue, 
-		ainsi que des problèmes de dépression et de trouble alimentaire. Lors de l'émission britannique The Album Chart Show, Amy Winehouse déclare qu'elle n'est pas alcoolique mais souffre de trouble bipolaire, 
-		ajoutant que ça rappelle « une alcoolique dans le déni ». Un journaliste américain du MinnPost écrit qu'elle est « victime de maladie mentale dans une société qui ne comprend ou ne répond pas à la maladie 
-		mentale avec une grande efficacité ».  Fin janvier 2008, Amy Winehouse entre dans un établissement de désintoxication pour une période de deux semaines de traitement. Le 26 mars 2008, le porte-parole d'Amy 
-		Winehouse annonce qu'elle se porte « fort bien » et dément les propos d'un article publié dans un tabloïd britannique annonçant le retour en cure de désintoxication de la chanteuse. 
-		À la fin du mois d'avril 2008, le comportement de la chanteuse et une accusation de voies de fait provoquent des doutes sur le succès de ses efforts en cure de désintoxication et 
-		poussent le père de la chanteuse et son manager à demander sa mise sous tutelle. À partir de 2009, la chanteuse, en cure de repos durant six mois sur l'île de Sainte-Lucie, semble avoir arrêté 
-		toute consommation de drogue dure, bien que sa consommation d'alcool reste forte.
-		</p>
+			<img src ="Amy.jfif"/>
+			
+			<p class = "texte"> Amy Jade Winehouse naît à Southgate, un quartier de Enfield à Londres, dans une famille juive qui partage son amour du jazz.
+			Son père chante souvent du Frank Sinatra à la maison et la jeune Amy prend l'habitude de chanter au point que ses enseignants se plaignent de ses difficultés à se concentrer en classe. Elle est également 
+			influencée par sa grand-mère paternelle Cynthia qui fut chanteuse de cabaret, et qui suggère à Amy de suivre les cours de la Susi Earnshaw Theatre School où elle se rend le samedi pour approfondir sa 
+			formation vocale et apprendre à faire des claquettes.</p> 
+			
+			<p class = "texte">Ses parents se séparant en 1992, Amy et son frère vivent alors avec leur mère Janis dans un autre logement. Elle devient une enfant rebelle, blessée par ce divorce. 
+			Elle étudie pendant quatre ans à l'Earnshaw school, avant de demander une formation à temps plein au Sylvia Young Theatre School. 
+			Il semble qu'elle en ait été expulsée à l'âge de quatorze ans, en raison de sa tenue peu soignée, de son piercing nasal, mais aussi de son manque d'application en classe.</p>
+			
+			<p class = "texte">Le 18 mai 2007, Amy Winehouse épouse Blake Fielder-Civil à Miami en Floride. Mais après une énième péripétie du couple, son mari Blake demande le divorce en janvier 2009 
+			qui est officialisé en juillet 2009.</p>
+			
+			<p class = "texte"> Depuis son adolescence, l'artiste souffre de boulimie et ne réussira jamais à se sortir de ce trouble de l'alimentation.
+			Amy Winehouse et ses relations avec les produits stupéfiants ont également fait l'objet d'une grande attention des médias. Dans diverses interviews, elle admet avoir des problèmes avec la drogue, 
+			ainsi que des problèmes de dépression et de trouble alimentaire. Lors de l'émission britannique <em>The Album Chart Show</em>, Amy Winehouse déclare qu'elle n'est pas alcoolique mais souffre de trouble bipolaire, 
+			ajoutant que ça rappelle « une alcoolique dans le déni ». Néanmoins, fin janvier 2008, Amy Winehouse entre dans un établissement de désintoxication pour une période de deux semaines de traitement. Le 26 mars 2008, 
+			le porte-parole d'Amy Winehouse annonce qu'elle se porte « fort bien » et dément les propos d'un article publié dans un tabloïd britannique annonçant le retour en cure de désintoxication de la chanteuse. 
+			Pourtant à la fin du mois d'avril 2008, le comportement de la chanteuse et une accusation de voies de fait provoquent des doutes sur le succès de ses efforts en cure de désintoxication et 
+			poussent le père de la chanteuse et son manager à demander sa mise sous tutelle. À partir de 2009, la chanteuse, en cure de repos durant six mois sur l'île de Sainte-Lucie, semble avoir arrêté 
+			toute consommation de drogue dure, bien que sa consommation d'alcool reste forte. </p>
+			
+			<p class="texte">Le 23 juillet 2011 à 15 h 54, la chanteuse est retrouvée morte dans son appartement dans le quartier Camden Town à Londres. L'autopsie pratiquée pour connaître les causes de sa mort 
+			révèle une surdose d'alcool. La chanteuse, qui luttait contre sa toxicodépendance et ses troubles alimentaires, sortait alors d'une période de sevrage 
+			d'alcool de trois semaines. La reprise d'une consommation importante lui a donc été fatale.</p>
 		</div>
 
 
@@ -93,10 +101,8 @@
 
 		<div class="Liste">
 		   <ol>
-			  <li><p>he Netherlands is a country in ...</p></li>
-			  <li><p><em>The United States of America</em> is a federal constitutional ...</p></li>
-			  <li><p><em>The Philippines</em> officially known as the Republic ...</p></li>
-			  <li><p><em>The United Kingdom</em> of Great Britain and ...</p></li>
+			  <li><p>Franck</p></li>
+			  <li><p>Back to Black</p></li>
 		   </ol>
 		</div>
 
@@ -137,20 +143,9 @@
 					<td>Auteur</td>
 				</tr>
 				</table>
-		<p class="LiensBasDroite"><a href="../index.php"><strong>Retour</strong></a></p>
+		<p class="LiensBasDroite"><a href="index.html"><strong>Retour</strong></a></p>
 
 	</body>
 	
 </html>
 
-
-<!--A placer : 
-
-
-	background-image: url(bg.jpg);
-	background-repeat: no-repeat;
-	background-size: 2100px;
-	background-position:center;
-	
-
-	-->
