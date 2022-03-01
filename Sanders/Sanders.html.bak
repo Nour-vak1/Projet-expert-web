@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<title>Matthew Sanders - Web Designer &amp; Developer</title>
+<style type="text/css">
+
+body{
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: 2100px;
+	background-position:center;
+	margin-bottom: 200px;
+	margin-left: 200px
+	}
+	
+	h3,p{
+	background-color: rgba(0,0,0,0.7);
+	margin: 0;
+	text-align: center;
+	width: 500px;
+	color: white;
+	}
+	
+	h1{
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	border-bottom-width: 3px;
+	margin-left: 30px;
+	width:430px;
+	}
+	h2{
+	border-top-style: solid;
+	border-top-color: black;
+	border-top-width: 3px;
+	width:430px;
+	margin-left: 30px;
+	}
+</style>
+
+</head>
+
+<body>
+<h1>mcsanders.com</h1>
+<h2>Matthew Sanders - Designer / Developer</h2>
+<h3>I'm back. No, really. I am.</h3>
+<p>Well, after a long time away, I'm finally back in business. Sorry to have kept you all waiting for so long. I threw this design together tonight in hopes of getting my blog going again. There's lots of stuff that has changed since I've last posted so I'll start from the beginning for all
+of you who are new.</p>
+<p>I'm <strong>Matthew Sanders</strong>, and I am a professional web designer and developer currently working for ElementFusion. I'm based in Oklahoma City, Oklahoma and this site is where I keep my day to day ramblings and collections of thoughts, designs and whatever the heck I want.</p>
+<p>I've been doing web development for over 7 years and I love technology. That's what I'll be talking about
+primarily. If you have any questions you may drop me a line at info@mcsanders.com. No spam Please.</p>
+<p>Well, I had hoped to write more but I'm extremely tired now and I best be off to bed.<br />Keep checking back I'll have the rest of the site up shortly.</p>
+<p>–Peace</p>
+<p>© 2008 Matthew C. Sanders<br />Views expressed here are not necessarily those of my employer.</p>
+<p>Valid XHTML / CSS
+<br />Hosted by: Dreamhost</p>
+</body>
+</html>
