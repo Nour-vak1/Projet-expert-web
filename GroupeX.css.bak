@@ -1,5 +1,7 @@
  *{
-font-family: Arial, Helvetica, sans-serif;
+	 
+	font-family: Arial, Helvetica, sans-serif;
+
  }
 
 
@@ -14,7 +16,8 @@ body {
 }
 
 
-.titre{
+.GroupeX{
+	
 	padding: 5px;
 	font-weight: bold;
 	text-align : center;
@@ -31,6 +34,9 @@ body {
 	
 }
 
+
+/* Classe en attendant : */
+
 .SousTitre{
 
 	text-align: center;
@@ -45,9 +51,51 @@ body {
 	width: auto;
 	border-radius : 100px;
 	background-color : rgba(0, 162, 255,0.3);
-	/*Rajouter font-family*/
 
-}
+} 
+
+/* Si on peut modifier les classes ou apporter des spe dans nos pages persos : 
+
+
+.DebainYoann{
+
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+	font-size:200%;
+	color: rgb(25, 0, 255);
+	margin-top: 200px;
+	margin-bottom : 40px;
+	margin-left : 15px;
+	margin-right : 15px;
+	width: auto;
+	border-radius : 100px;
+	background-color : rgba(0, 162, 255,0.3);
+	
+
+}*/
+
+/* Si il faut créer une nouvelle classe propre à chacune de nos pages persos : 
+
+.SousTitre{
+
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+	font-size:200%;
+	color: rgb(25, 0, 255);
+	margin-top: 200px;
+	margin-bottom : 40px;
+	margin-left : 15px;
+	margin-right : 15px;
+	width: auto;
+	border-radius : 100px;
+	position : sticky;
+	top : 0px;
+	box-shadow: 10px 5px 5px rgba(255, 0, 0, 0.4); 
+	background-color : rgba(0, 162, 255);
+
+} */
 
 
 
@@ -76,6 +124,7 @@ body {
 }
 
 .texte{
+	
 	font-family: Helvetica, sans-serif;
 	margin-bottom: 45px;
 	text-align : justify;
@@ -85,6 +134,7 @@ body {
 
 
 table {
+	
 	margin-right: auto;
 	margin-left: auto;
 	width: 600px;
@@ -92,12 +142,14 @@ table {
 }
 
 th, td{
+	
 	padding : 8px;
 	border : 3px solid rgba(204, 133, 255, 0.966); 
 	text-align : center;
 }
 
 th {
+	
 	width : 200px;
 	background-color: #2D5FAF;
 	color : white;
@@ -109,6 +161,28 @@ img {
 
 }
 
+/* Si on peut modifier les classes ou apporter des spe dans nos pages persos : 
+
+
+.AitKaddourNour ul { 
+
+	font-size:24px; 
+	color:#bfe1f1;  
+}
+
+.AitKaddourNour ul li p { 
+
+	padding:8px; 
+	font-style:normal; 
+	font-family:Arial; 
+	font-size:13px; 
+	color:#eee; 
+	border-left: 1px solid #999; 
+} */
+
+
+
+/* Si il faut créer une nouvelle classe propre à chacune de nos pages persos : 
 .Liste ul { 
 
 	font-size:24px; 
@@ -116,6 +190,28 @@ img {
 }
 
 .Liste ul li p { 
+
+	padding:8px; 
+	font-style:normal; 
+	font-family:Arial; 
+	font-size:13px; 
+	color:#eee; 
+	border-left: 1px solid #999; 
+}
+
+RAJOUTER LES MODIFS DE NOUR*/
+
+
+/* En attendant : */
+
+.Liste ul { 
+
+	font-size:24px; 
+	color:#bfe1f1;  
+}
+
+.Liste ul li p { 
+
 	padding:8px; 
 	font-style:normal; 
 	font-family:Arial; 
@@ -125,6 +221,7 @@ img {
 }
 
 .Liens{
+	
 	width: 70px;
 	text-align : center;
 	background-color : rgba(255, 255, 255, 0.212);
@@ -135,6 +232,7 @@ img {
 }
 
 .Retour{
+	
 	margin-right: 5px;
 	margin-left : auto;
 	width: 80px;
@@ -145,7 +243,9 @@ img {
 	border-radius : 10px;
 }
 
-h3{font-size: 8px;
+h3{
+	
+	font-size: 8px;
 	border-bottom: 20px;
 }
 
