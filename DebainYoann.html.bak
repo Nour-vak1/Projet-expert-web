@@ -12,7 +12,7 @@
 			
 				position : sticky;
 				top : 0px;
-				box-shadow: 10px 5px 5px red; 
+				box-shadow: 10px 5px 5px rgba(255, 0, 0, 0.5); 
 				background-color : rgba(0, 162, 255);
 			
 			}
@@ -151,7 +151,7 @@
 				<tr>
 					<td><a href=".html">Stevie Wonder </a></td>
 					<td> <img src="Stevie.jfif"/> </td>
-					<td>Nour Ait Kaddour</td>
+					<td>Nour AIT KADDOUR</td>
 				</tr>
 				</table>
 		<p class="Retour"><a href="index.html"><strong>Retour</strong></a></p>
