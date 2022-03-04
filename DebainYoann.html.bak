@@ -13,6 +13,7 @@
 				position : sticky;
 				top : 0px;
 				box-shadow: 10px 5px 5px red; 
+				background-color : rgba(0, 162, 255);
 			
 			}
 
@@ -82,6 +83,16 @@
 		coécrites par Amy Winehouse. Elle reçoit des critiques positives sur le regard acerbe et posé qu'elle porte sur les relations amoureuses, le monde, la musique et elle-même.
 		En 2004, son album est sélectionné pour concourir aux Brit Awards dans les catégories de « British Female Solo Artist » et « British Urban Act ». Il est certifié disque d'or en Angleterre en février 2004. 
 		Amy Winehouse remporte le « Ivor Novello songwriting price » pour la meilleure chanson contemporaine, aux côtés de Salaam Remi, avec sa contribution sur le premier single, Stronger Than Me.
+		Contrairement à son premier album aux influences jazz rétro, la production du second album s'oriente plus sur le style des girl groups des années 1950 et 1960.
+		Back to Black sort au Royaume-Uni le 30 octobre 2006. À plusieurs reprises lors de son exploitation, il se place à la première position des charts anglais. Pour sa sortie aux États-Unis, le 17 mars 2007, 
+		il se classe au septième rang du Billboard 200. Le 14 décembre 2007, l'album est six fois certifié disque de platine au Royaume-Uni et finit l'année comme l'album le plus vendu.
+		En plus de son propre album, Amy Winehouse collabore avec d'autres artistes en single. Elle chante sur la chanson Valerie de l'album solo de Ronson. Cette chanson se classe numéro deux au Royaume-Uni au 
+		moment de sa sortie le 1er octobre. La chanson reçoit une proposition pour les Brit Awards 2008, dans la catégorie « Best British Single ».
+		Depuis la fin de l'année 2007, Amy Winehouse reçoit de nombreux prix et distinctions. La chanteuse remporte les Grammy Awards 2008 dans les catégories « Enregistrement de l'année », « Chanson de l'année » 
+		et « Meilleure Prestation vocale pop féminine » pour le single Rehab, et son album Back to Black reçoit une proposition pour « Album de l'année » et remporte le Grammy de l'« Enregistrement de l'année ». 
+		La chanteuse obtient un Grammy dans la catégorie « Meilleure Nouvelle Artiste ».
+		Une sculpture de cire la représentant est exposée à Londres dans la galerie Madame Tussauds dans le cadre d'une nouvelle zone du musée consacré à la musique. Le musée note qu'Amy Winehouse est 
+		« une véritable icône dans la musique moderne »
 		</p>
 		</div>
 
@@ -100,10 +111,10 @@
 		<img src ="Amy.jfif"/>
 
 		<div class="Liste">
-		   <ol>
+		   <ul>
 			  <li><p>Franck</p></li>
 			  <li><p>Back to Black</p></li>
-		   </ol>
+		   </ul>
 		</div>
 
 
@@ -118,12 +129,12 @@
 		<div class = "SousPartie">
 
 		<div class="Liste">
-		   <ol>
+		   <ul>
 			  <li><p>he Netherlands is a country in ...</p></li>
 			  <li><p><em>The United States of America</em> is a federal constitutional ...</p></li>
 			  <li><p><em>The Philippines</em> officially known as the Republic ...</p></li>
 			  <li><p><em>The United Kingdom</em> of Great Britain and ...</p></li>
-		   </ol>
+		   </ul>
 		</div>
 
 		</div>
@@ -140,10 +151,10 @@
 				<tr>
 					<td><a href=".html">Stevie Wonder </a></td>
 					<td> <img src="Stevie.jfif"/> </td>
-					<td>Auteur</td>
+					<td>Nour Ait Kaddour</td>
 				</tr>
 				</table>
-		<p class="LiensBasDroite"><a href="index.html"><strong>Retour</strong></a></p>
+		<p class="Retour"><a href="index.html"><strong>Retour</strong></a></p>
 
 	</body>
 	

@@ -2,145 +2,9 @@
 <html>
 
 	<head>
-		<!--<link rel="stylesheet" href="GroupeX.css"type="text/css"media="screen"/>-->
+		<link rel="stylesheet" href="GroupeX.css"type="text/css"media="screen"/>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<title>Page d'accueil</title>
-		<style>
-		
-			body {
-			
-				background-color : rebeccapurple;
-				background: conic-gradient(from 1.75turn at 0% 0%,#00E6FF,#FF8AE2);
-				margin : 0px;
-			
-			}
-			
-			.titre, .SousTitre{
-			
-				padding: 5px;
-				font-weight: bold;
-				
-			}
-			
-			.titre{
-				text-align : center;
-				font-family : Goudy Old Style;
-				text-transform: uppercase;
-				font-size:300%;
-				color: lightskyblue;
-				background-color: rgba(0,0,0,0.2);	
-				border: 5px lightskyblue solid;
-				border-radius: 10px 10px 10px 10px;
-				margin: 50px;
-				width: auto;
-				text-shadow: 1px 1px 2px black;
-				
-			}
-			
-			.SousTitre{
-			
-				font-size:200%;
-				color: lightskyblue;
-				border-bottom: 2px solid white;
-				border-left: 2px solid white;
-				margin-left : 15px;
-				width: auto;
-				position : sticky;
-				top : 0px;
-				background-color : red;
-			
-			}
-		
-		
-			.intro {
-			
-				margin-left : 125px;
-				margin-right : 125px;
-				width : auto;
-				
-			}
-			
-			.SousPartie{
-			
-				margin-left : 50px;
-				margin-right : 15px;
-				height : 350px;
-			
-			}
-			
-			.SousPartie img {
-			
-				width : 20%;
-				float : right;
-				margin : 7px;
-				
-			}
-			
-			.texte{
-			
-				text-align : justify;
-			
-			}
-			
-			
-			table {
-				margin-right: auto;
-				margin-left: auto;
-				width: 600px;
-				font-size : larger;
-			}
-			
-			th, td{
-				padding : 8px;
-				border : 3px solid black;
-				text-align : center;
-			}
-
-			th {
-				width : 200px;
-				background-color: #2D5FAF;
-				color : white;
-			}
-			
-			img {
-			
-				width : 75%;
-			
-			}
-			
-			.Liste { 
-				width:320px; 
-			}
-			
-			.Liste ol { 
-				font-style:italic; 
-				font-family:Georgia, Times, serif; 
-				font-size:24px; 
-				color:#bfe1f1;  
-			}
-			
-			.Liste ol li p { 
-				padding:8px; 
-				font-style:normal; 
-				font-family:Arial; 
-				font-size:13px; 
-				color:#eee; 
-				border-left: 1px solid #999; 
-			}
-	
-			.LiensBasDroite{
-				margin-right: 5px;
-				margin-left : auto;
-				width: 80px;
-				text-align : center;
-				background-color : white;
-				font-size : 18px;
-				padding:3px;
-				border-radius : 10px;
-			}
-
-		
-		</style>
 	</head>
 	
 	<body>
@@ -150,26 +14,27 @@
 		Certains de leurs tubes sont écoutés depuis des années et continuent à toucher les générations de jeunes
 		amateurs de musique, qui ne connaît pas "back to black" ou "superstition".
 		Nous vous proposons d'en découvrir un peu plus sur ces légendes de la musique au travers de pages dédiées.
-	</p>
-	<br/>
-	<h1 class = "SousTitre"> MENU </h1>
-	<table>
-		<tr>
-			<th>Nom</th>
-			<th>Images</th>
-			<th>Auteur</th>
-		</tr>
-		<tr>
-			<td><a href=".html">Stevie Wonder </a></td>
-			<td> <img src="Stevie.jfif"/> </td>
-			<td>Auteur</td>
-		</tr>
-		<tr>
-			<td><a href="DebainYoann.html">Amy Winehouse</a></td>
-			<td><img src = "Amy.jfif"/></td>
-			<td>Yoann DEBAIN</td>
-		</tr>
+		</p>
+		<br/>
+		<h1 class = "SousTitre"> MENU </h1>
+		<table>
+			<tr>
+				<th>Nom</th>
+				<th>Images</th>
+				<th>Auteur</th>
+			</tr>
+			<tr>
+				<td><a href=".html">Stevie Wonder </a></td>
+				<td> <img src="Stevie.jfif"/> </td>
+				<td>Auteur</td>
+			</tr>
+			<tr>
+				<td><a href="DebainYoann.html">Amy Winehouse</a></td>
+				<td><img src = "Amy.jfif"/></td>
+				<td>Yoann DEBAIN</td>
+			</tr>
 		</table>
+		
 	</body>
 	
 </html>

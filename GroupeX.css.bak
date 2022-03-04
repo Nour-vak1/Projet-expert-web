@@ -1,27 +1,24 @@
-/* *{
-border : solid red thin
-} */
-
+ *{
+font-family: Arial, Helvetica, sans-serif;
+ }
 
 
 body {
 			
 	background-color : rebeccapurple;
 	background: conic-gradient(from 1.75turn at 0% 0%,#00E6FF,#FF8AE2);
+	background-repeat: no-repeat;
 	margin : 0px;
+	background-size: 6000px 4500px;
 	
 }
 
-.titre, .SousTitre{
-
-	padding: 5px;
-	font-weight: bold;
-	
-}
 
 .titre{
+	padding: 5px;
+	font-weight: bold;
 	text-align : center;
-	font-family : Goudy Old Style; /*Possiblement changer la police pour une plus jolie*/
+	font-family : Goudy Old Style; 
 	text-transform: uppercase;
 	font-size:300%;
 	color: lightskyblue;
@@ -36,22 +33,22 @@ body {
 
 .SousTitre{
 
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
 	font-size:200%;
-	color: lightskyblue;
-	border-bottom: 2px solid white;
-	border-left: 2px solid white;
+	color: rgb(25, 0, 255);
+	margin-top: 200px;
+	margin-bottom : 40px;
 	margin-left : 15px;
+	margin-right : 15px;
 	width: auto;
-	background-color : red; /*CHANGER LA COULEUR POUR UNE PLUS ADAPTER A LA PAGE*/
+	border-radius : 100px;
+	background-color : rgba(0, 162, 255,0.3);
 	/*Rajouter font-family*/
 
 }
 
-.intro, .texte{
-	
-	/*Rajouter font-family*/
-	
-}
 
 
 .intro {
@@ -66,7 +63,7 @@ body {
 
 	margin-left : 50px;
 	margin-right : 15px;
-	height : 400px;
+	height : 425px;
 
 }
 
@@ -79,10 +76,11 @@ body {
 }
 
 .texte{
-
+	font-family: Helvetica, sans-serif;
+	margin-bottom: 45px;
 	text-align : justify;
 	margin-top : 7px;
-
+	line-height: 20px;
 }
 
 
@@ -95,7 +93,7 @@ table {
 
 th, td{
 	padding : 8px;
-	border : 3px solid black; /*Changer couleur bordure pour une plus adapté*/
+	border : 3px solid rgba(204, 133, 255, 0.966); 
 	text-align : center;
 }
 
@@ -107,18 +105,17 @@ th {
 
 img {
 
-	width : 75%;
+	size : cover;
 
 }
 
-.Liste ol { 
-	font-style:italic; 
-	font-family:Georgia, Times, serif; 
+.Liste ul { 
+
 	font-size:24px; 
 	color:#bfe1f1;  
 }
 
-.Liste ol li p { 
+.Liste ul li p { 
 	padding:8px; 
 	font-style:normal; 
 	font-family:Arial; 
@@ -127,7 +124,17 @@ img {
 	border-left: 1px solid #999; 
 }
 
-.LiensBasDroite{
+.Liens{
+	width: 70px;
+	text-align : center;
+	background-color : rgba(255, 255, 255, 0.212);
+	font-size : 18px;
+	margin-left:18%;
+	border-radius : 10px;
+
+}
+
+.Retour{
 	margin-right: 5px;
 	margin-left : auto;
 	width: 80px;
@@ -138,198 +145,14 @@ img {
 	border-radius : 10px;
 }
 
-
-
-
-
-
-
-
-
-
-/* *{
-border : solid red thin
-}
-
- body{
-	background-image: url(bg.jpg);
-	background-repeat: no-repeat;
-	background-size: 2100px;
-	background-position:center;
-	margin-bottom: 200px;
-	margin-left: 200px
-	} 
-	
-
-#amy{
-
-background-image: url(Amy.jfif);
-
-
-}
-#stevie{
-    background-image: url(Stevie.jfif);
- 
-
-
-}*/
-/*instructions pour le corps de la page
-body { 
-	text-align: center;
-	color: rebeccapurple;
-	background: conic-gradient(from 1.75turn at 0% 0%,#00E6FF,#FF8AE2);
-	background-size: 6000px 4500px;
-	background-repeat: no-repeat;
-	height:1500px;
-}
-
-.liste{padding: 4px;}
-p{
-	background-size:cover;
-	background-color: rgba(0,0,0,0.2);	
-	background-repeat: no-repeat;
-	font-size:125%;
-	border: 5px;
-	border-style: none;
-	border-color: lightskyblue;
-	padding: 5px;
-	margin: 50px;
-	color: lightskyblue;
-	text-decoration:blink;
-	width: auto;
-	font-weight: bold;
-	border-radius: 10px 10px 10px 10px;
-    -moz-border-radius: 10px 10px 10px 10px;
-    -webkit-border-radius: 10px 10px 10px 10px;
-    /*les 3 lignes au dessus sont issues du site web 
-    cité dans le README.txt à la date du 10/02/2022
-    fonction : arrondir le cadre autour du titre.
-    
-}
-
-h1{
-	font-size:43px;
-    color : rgba(0,0,0,1)
-}
-
-/* instructions pour les listes
-ol{
-	font-size: 12px;
-}
-
-ul,dt{
-	margin-top: 5%;
-	margin-right: 10%;
-	text-align: left;
-}
-
-h2{
-	margin-left: 0%;
-	text-align: left;
-}
-
-li{
-	text-align: left;
-	
-	}
-
-/*instructions pour des boîtes que j'ai créé (commencent par un #) et pour les groupements spéciaux (div)
-
-
-#ldl,#expl,#explications{
-	text-shadow: 1px 1px 2px black;
-	text-align: left;
-	margin: 0%;
-	color: white;
-	font-size: 12px;
+h3{font-size: 8px;
+	border-bottom: 20px;
 }
 
 
 
-#image{
-	display: flex;
-	margin-left: 38%;
-	border: solid 5px lightblue;
-	position: absolute;
-	top: 50%;
-	transform: translate(0%, -50%);
-}
-
-#pages_annexes{
-	top: 0px;
-	left: 0px;
-	position : absolute;
-}
-#explications{
-	color black;
-	}
-/*instructions pour les tableaux
-
-table {
-margin-right: auto;
-margin-left: auto;
-width: 800px;
-font-size : larger;
-}
-
-th {
-width: 70px;
-padding: 8px;
-background-color: #2D5FAF;
-color : white;
-border : 3px solid white;
-}
-
-td,#amy,#stevie {
-background-size: cover;  
-background-position: center;
-background-repeat: no-repeat; 
-width: 80px;
-height: 240px;
-padding: 8px;
-text-align: center;
-border : 3px solid white;
-}
-.texte{
-	
-	text-align: justify;
-	width:450px;
-	margin-left: 0%;
-
-}
-.image {
-	margin-left: 600px;
-	margin-top: -223px;
-	margin-bottom: 200px;
-	border: red dotted 1px;
-
-}
-
-/* table{
-	border-spacing : 5px 5px;
-	border-style: dashed;
-	border-width: medium;
-	border-collapse: collapse;
-	margin : auto;
-}
-
-th,tr,td{
-
-	font-size: 110%;
-	background-size:cover;
-	
-	background-repeat: no-repeat;
-	border-spacing : 5px 5px;
-	border-style: solid;
-	border-color: rgba(0,0,0,0.1);
-	border-width: medium;
-	border-collapse: collapse;
-
-} */
 
 
-/*instructions pour les éléments ancrés, souvent les liens pour naviguer sur le site web
-a{
-	margin: 10px	
-}
-*/
+
+
+
