@@ -1,25 +1,22 @@
-/* *{
-border : solid red thin
-} */
-
+ *{
+font-family: Arial, Helvetica, sans-serif;
+ }
 
 
 body {
 			
 	background-color : rebeccapurple;
 	background: conic-gradient(from 1.75turn at 0% 0%,#00E6FF,#FF8AE2);
+	background-repeat: no-repeat;
 	margin : 0px;
+	background-size: 6000px 4500px;
 	
 }
 
-.titre, .SousTitre{
-
-	padding: 5px;
-	font-weight: bold;
-	
-}
 
 .titre{
+	padding: 5px;
+	font-weight: bold;
 	text-align : center;
 	font-family : Goudy Old Style; /*Possiblement changer la police pour une plus jolie*/
 	text-transform: uppercase;
@@ -36,22 +33,21 @@ body {
 
 .SousTitre{
 
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
 	font-size:200%;
-	color: lightskyblue;
-	border-bottom: 2px solid white;
-	border-left: 2px solid white;
+	color: rgb(25, 0, 255);
+	margin-top: 200px;
+	margin-bottom : 40px;
 	margin-left : 15px;
 	width: auto;
-	background-color : red; /*CHANGER LA COULEUR POUR UNE PLUS ADAPTER A LA PAGE*/
+	border-radius : 100px;
+	background-color : rgba(0, 162, 255,0.3); /*CHANGER LA COULEUR POUR UNE PLUS ADAPTER A LA PAGE : fait*/
 	/*Rajouter font-family*/
 
 }
 
-.intro, .texte{
-	
-	/*Rajouter font-family*/
-	
-}
 
 
 .intro {
@@ -77,12 +73,21 @@ body {
 	margin : 7px;
 	
 }
+.imgtbl{
+
+	width:500%;
+	height:100%;
+
+
+}
 
 .texte{
-
+	font-family: Helvetica, sans-serif;
+	margin-bottom: 45px;
 	text-align : justify;
 	margin-top : 7px;
-
+	line-height: 20px;
+	line-break :strict;
 }
 
 
@@ -95,7 +100,7 @@ table {
 
 th, td{
 	padding : 8px;
-	border : 3px solid black; /*Changer couleur bordure pour une plus adapté*/
+	border : 3px solid rgba(204, 133, 255, 0.966); /*Changer couleur bordure pour une plus adapté*/
 	text-align : center;
 }
 
@@ -126,7 +131,15 @@ img {
 	color:#eee; 
 	border-left: 1px solid #999; 
 }
+.Liens{
+	width: 70px;
+	text-align : center;
+	background-color : rgba(255, 255, 255, 0.212);
+	font-size : 18px;
+	margin-left:18%;
+	border-radius : 10px;
 
+}
 .LiensBasDroite{
 	margin-right: 5px;
 	margin-left : auto;
@@ -138,7 +151,13 @@ img {
 	border-radius : 10px;
 }
 
+h3{font-size: 8px;
+	border-bottom: 20px;
+}
 
+a{
+	margin-bottom : 40px;
+	margin-left: 20%}
 
 
 
