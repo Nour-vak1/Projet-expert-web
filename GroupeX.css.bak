@@ -1,3 +1,6 @@
+ /* En attendant : */
+ 
+ 
  *{
 	 
 	font-family: Arial, Helvetica, sans-serif;
@@ -34,9 +37,6 @@ body {
 	
 }
 
-
-/* Classe en attendant : */
-
 .SousTitre{
 
 	text-align: center;
@@ -53,49 +53,6 @@ body {
 	background-color : rgba(0, 162, 255,0.3);
 
 } 
-
-/* Si on peut modifier les classes ou apporter des spe dans nos pages persos : 
-
-
-.DebainYoann{
-
-	text-align: center;
-	padding: 5px;
-	font-weight: bold;
-	font-size:200%;
-	color: rgb(25, 0, 255);
-	margin-top: 200px;
-	margin-bottom : 40px;
-	margin-left : 15px;
-	margin-right : 15px;
-	width: auto;
-	border-radius : 100px;
-	background-color : rgba(0, 162, 255,0.3);
-	
-
-}*/
-
-/* Si il faut créer une nouvelle classe propre à chacune de nos pages persos : 
-
-.SousTitre{
-
-	text-align: center;
-	padding: 5px;
-	font-weight: bold;
-	font-size:200%;
-	color: rgb(25, 0, 255);
-	margin-top: 200px;
-	margin-bottom : 40px;
-	margin-left : 15px;
-	margin-right : 15px;
-	width: auto;
-	border-radius : 100px;
-	position : sticky;
-	top : 0px;
-	box-shadow: 10px 5px 5px rgba(255, 0, 0, 0.4); 
-	background-color : rgba(0, 162, 255);
-
-} */
 
 
 
@@ -161,7 +118,178 @@ img {
 
 }
 
-/* Si on peut modifier les classes ou apporter des spe dans nos pages persos : 
+.Liste ul { 
+
+	font-size:24px; 
+	color:#bfe1f1;  
+}
+
+.Liste ul li p { 
+
+	padding:8px; 
+	font-style:normal; 
+	font-family:Arial; 
+	font-size:13px; 
+	color:#eee; 
+	border-left: 1px solid #999; 
+}
+
+
+.Liens{
+	
+	width: 70px;
+	text-align : center;
+	background-color : rgba(255, 255, 255, 0.212);
+	font-size : 18px;
+	margin-left:18%;
+	border-radius : 10px;
+
+} 
+
+.Retour{
+	
+	margin-right: 5px;
+	margin-left : auto;
+	width: 80px;
+	text-align : center;
+	background-color : white;
+	font-size : 18px;
+	padding:3px;
+	border-radius : 10px;
+}
+
+h3{
+	
+	font-size: 8px;
+	border-bottom: 20px;
+}
+
+
+
+
+
+
+/* Si on peut modifier les classes ou apporter des spe dans nos pages persos : */
+
+ *{
+	 
+	font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+
+body {
+			
+	background-color : rebeccapurple;
+	background: conic-gradient(from 1.75turn at 0% 0%,#00E6FF,#FF8AE2);
+	background-repeat: no-repeat;
+	margin : 0px;
+	background-size: 6000px 4500px;
+	
+}
+
+
+.GroupeX{
+	
+	padding: 5px;
+	font-weight: bold;
+	text-align : center;
+	font-family : Goudy Old Style; 
+	text-transform: uppercase;
+	font-size:300%;
+	color: lightskyblue;
+	background-color: rgba(0,0,0,0.2);	
+	border: 5px lightskyblue solid;
+	border-radius: 10px 10px 10px 10px;
+	margin: 50px;
+	width: auto;
+	text-shadow: 1px 1px 2px black;
+	
+}
+
+
+
+.DebainYoann{
+
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+	font-size:200%;
+	color: rgb(25, 0, 255);
+	margin-top: 200px;
+	margin-bottom : 40px;
+	margin-left : 15px;
+	margin-right : 15px;
+	width: auto;
+	border-radius : 100px;
+	background-color : rgba(0, 162, 255,0.3);
+	
+
+}
+
+
+
+.intro {
+
+	margin-left : 125px;
+	margin-right : 125px;
+	width : auto;
+	
+}
+
+.SousPartie{
+
+	margin-left : 50px;
+	margin-right : 15px;
+	height : 425px;
+
+}
+
+.SousPartie img {
+
+	width : 20%;
+	float : right;
+	margin : 7px;
+	
+}
+
+.texte{
+	
+	font-family: Helvetica, sans-serif;
+	margin-bottom: 45px;
+	text-align : justify;
+	margin-top : 7px;
+	line-height: 20px;
+}
+
+
+table {
+	
+	margin-right: auto;
+	margin-left: auto;
+	width: 600px;
+	font-size : larger;
+}
+
+th, td{
+	
+	padding : 8px;
+	border : 3px solid rgba(204, 133, 255, 0.966); 
+	text-align : center;
+}
+
+th {
+	
+	width : 200px;
+	background-color: #2D5FAF;
+	color : white;
+}
+
+img {
+
+	size : cover;
+
+}
 
 
 .AitKaddourNour ul { 
@@ -178,47 +306,8 @@ img {
 	font-size:13px; 
 	color:#eee; 
 	border-left: 1px solid #999; 
-} */
+} 
 
-
-
-/* Si il faut créer une nouvelle classe propre à chacune de nos pages persos : 
-.Liste ul { 
-
-	font-size:24px; 
-	color:#bfe1f1;  
-}
-
-.Liste ul li p { 
-
-	padding:8px; 
-	font-style:normal; 
-	font-family:Arial; 
-	font-size:13px; 
-	color:#eee; 
-	border-left: 1px solid #999; 
-}
-
-RAJOUTER LES MODIFS DE NOUR*/
-
-
-/* En attendant : */
-
-.Liste ul { 
-
-	font-size:24px; 
-	color:#bfe1f1;  
-}
-
-.Liste ul li p { 
-
-	padding:8px; 
-	font-style:normal; 
-	font-family:Arial; 
-	font-size:13px; 
-	color:#eee; 
-	border-left: 1px solid #999; 
-}
 
 .Liens{
 	
@@ -229,6 +318,198 @@ RAJOUTER LES MODIFS DE NOUR*/
 	margin-left:18%;
 	border-radius : 10px;
 
+} 
+
+.Retour{
+	
+	margin-right: 5px;
+	margin-left : auto;
+	width: 80px;
+	text-align : center;
+	background-color : white;
+	font-size : 18px;
+	padding:3px;
+	border-radius : 10px;
+}
+
+h3{
+	
+	font-size: 8px;
+	border-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  Si il faut créer une nouvelle classe propre à chacune de nos pages persos : */
+
+
+*{
+	 
+	font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+
+body {
+			
+	background-color : rebeccapurple;
+	background: conic-gradient(from 1.75turn at 0% 0%,#00E6FF,#FF8AE2);
+	background-repeat: no-repeat;
+	margin : 0px;
+	background-size: 6000px 4500px;
+	
+}
+
+
+.GroupeX{
+	
+	padding: 5px;
+	font-weight: bold;
+	text-align : center;
+	font-family : Goudy Old Style; 
+	text-transform: uppercase;
+	font-size:300%;
+	color: lightskyblue;
+	background-color: rgba(0,0,0,0.2);	
+	border: 5px lightskyblue solid;
+	border-radius: 10px 10px 10px 10px;
+	margin: 50px;
+	width: auto;
+	text-shadow: 1px 1px 2px black;
+	
+}
+
+
+.SousTitre{
+
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+	font-size:200%;
+	color: rgb(25, 0, 255);
+	margin-top: 200px;
+	margin-bottom : 40px;
+	margin-left : 15px;
+	margin-right : 15px;
+	width: auto;
+	border-radius : 100px;
+	position : sticky;
+	top : 0px;
+	box-shadow: 10px 5px 5px rgba(255, 0, 0, 0.4); 
+	background-color : rgba(0, 162, 255);
+
+} 
+
+
+
+.intro {
+
+	margin-left : 125px;
+	margin-right : 125px;
+	width : auto;
+	
+}
+
+.SousPartie{
+
+	margin-left : 50px;
+	margin-right : 15px;
+	height : 425px;
+
+}
+
+.SousPartie img {
+
+	width : 20%;
+	float : right;
+	margin : 7px;
+	
+}
+
+.texte{
+	
+	font-family: Helvetica, sans-serif;
+	margin-bottom: 45px;
+	text-align : justify;
+	margin-top : 7px;
+	line-height: 20px;
+}
+
+
+table {
+	
+	margin-right: auto;
+	margin-left: auto;
+	width: 600px;
+	font-size : larger;
+}
+
+th, td{
+	
+	padding : 8px;
+	border : 3px solid rgba(204, 133, 255, 0.966); 
+	text-align : center;
+}
+
+th {
+	
+	width : 200px;
+	background-color: #2D5FAF;
+	color : white;
+}
+
+img {
+
+	size : cover;
+
+}
+
+
+/*RAJOUTER CERTAINES MODIFS DE NOUR dans .Liste*/
+
+.Liste ul { 
+
+	font-size:24px; 
+	color:#bfe1f1;  
+}
+
+.Liste ul li p { 
+
+	padding:8px; 
+	font-style:normal; 
+	font-family:Arial; 
+	font-size:13px; 
+	color:#eee; 
+	border-left: 1px solid #999; 
 }
 
 .Retour{
@@ -248,6 +529,40 @@ h3{
 	font-size: 8px;
 	border-bottom: 20px;
 }
+
+
+/* Mettre dans la page de Nour */
+
+.AitKaddourNour{
+	
+	width: 70px;
+	text-align : center;
+	background-color : rgba(255, 255, 255, 0.212);
+	font-size : 18px;
+	margin-left:18%;
+	border-radius : 10px;
+
+} 
+
+/* Mettre dans la page de Yoann */
+
+.DebainYoann{
+	
+	font-style: italic;
+	font-weight: bold;
+	font-size : larger;
+	color : red;
+	text-decoration: underline red;
+	font-family : "Times New Roman", Times, serif;
+	text-transform : capitalize;
+	
+}
+
+
+
+
+
+
 
 
 

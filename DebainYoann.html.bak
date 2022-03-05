@@ -16,6 +16,16 @@
 				background-color : rgba(0, 162, 255);
 			
 			}
+			
+			.test {
+				font-style: italic;
+				font-weight: bold;
+				font-size : larger;
+				color : red;
+				text-decoration: underline red;
+				font-family : "Times New Roman", Times, serif;
+				text-transform : capitalize;
+			}
 
 		</style>
 		
@@ -131,7 +141,7 @@
 		<div class="Liste">
 		   <ul>
 			  <li><p>he Netherlands is a country in ...</p></li>
-			  <li><p><em>The United States of America</em> is a federal constitutional ...</p></li>
+			  <li><p><em class = "test">The United States of America</em> is a federal constitutional ...</p></li>
 			  <li><p><em>The Philippines</em> officially known as the Republic ...</p></li>
 			  <li><p><em>The United Kingdom</em> of Great Britain and ...</p></li>
 		   </ul>
