@@ -6,6 +6,12 @@
 	font-family: Arial, Helvetica, sans-serif;
 
  }
+ 
+ p{
+	 
+	 color : darkslategrey;
+	 
+ }
 
 
 body {
@@ -169,6 +175,25 @@ h3{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Si on peut modifier les classes ou apporter des spe dans nos pages persos : */
 
  *{
@@ -177,6 +202,11 @@ h3{
 
  }
 
+ p{
+	 
+	 color : darkslategrey;
+	 
+ }
 
 body {
 			
@@ -377,6 +407,12 @@ h3{
 	font-family: Arial, Helvetica, sans-serif;
 
  }
+ 
+  p{
+	 
+	 color : darkslategrey;
+	 
+ }
 
 
 body {
@@ -531,7 +567,7 @@ h3{
 }
 
 
-/* Mettre dans la page de Nour */
+/* Mettre dans la page de Nour et remplacer class="Liens" par class = "AitKaddourNour"*/
 
 .AitKaddourNour{
 	
@@ -544,18 +580,18 @@ h3{
 
 } 
 
-/* Mettre dans la page de Yoann */
+/* Mettre dans la page de Yoann et rajouter class="DebainYoann" dans balise em*/
 
 .DebainYoann{
 	
 	font-style: italic;
 	font-weight: bold;
-	font-size : larger;
-	color : red;
-	text-decoration: underline red;
+	font-size : 115%;
+	color : black;
+	text-decoration: underline rgba(147,112,219);
 	font-family : "Times New Roman", Times, serif;
 	text-transform : capitalize;
-	
+
 }
 
 
